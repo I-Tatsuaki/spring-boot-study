@@ -5,19 +5,19 @@ import com.tatsuaki.study.vaadin.second.Person;
 import com.vaadin.annotations.Theme;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.spring.annotation.SpringUI;
-import com.vaadin.ui.Grid;
-import com.vaadin.ui.UI;
+import com.vaadin.ui.*;
 
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-@SpringUI(path = "/vaadin/trial/2")
+@SpringUI(path = "/vaadin/trial/4")
 @Theme("valo")
-public class vaadinTrialSecond extends UI {
-
-    @Override
+public class VaadinTrialFourth extends UI {
     protected void init(VaadinRequest request) {
+        final VerticalLayout layout = new VerticalLayout();
+        layout.setMargin(true);
+        layout.setSizeFull();
 
         List<Person> personList = new ArrayList<>();
 
@@ -40,8 +40,10 @@ public class vaadinTrialSecond extends UI {
         grid.removeColumn("id");
         grid.setColumns("firstName", "lastName", "age", "address",
                 "phoneNumber");
+        grid.setWidth("1000px");
 
-        setContent(grid);
+        layout.addComponent(grid);
+        setContent(layout);
+        setWidth("1500px");
     }
-
 }

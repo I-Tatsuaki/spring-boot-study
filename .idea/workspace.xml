@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8c425f-d478-4a5e-a0d8-13955584db6b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialFourth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialThird.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StartVaadin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/StartVaadin.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vaadinTrialSecond.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialSecond.java">
+      <file leaf-file-name="VaadinTrialSecond.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialSecond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="305">
+              <caret line="43" column="25" lean-forward="true" selection-start-line="21" selection-end-line="43" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,113 +40,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vaadinTrialThird.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialThird.java">
+      <file leaf-file-name="VaadinTrialThird.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialThird.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1025#1026#0" expanded="true" />
-                <element signature="e#1059#1060#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1194#1195#0" expanded="true" />
-                <element signature="e#1224#1225#0" expanded="true" />
-                <element signature="e#1271#1272#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
-                <element signature="e#1392#1393#0" expanded="true" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1507#1508#0" expanded="true" />
-                <element signature="e#1546#1547#0" expanded="true" />
-                <element signature="e#1578#1579#0" expanded="true" />
-                <element signature="e#1631#1632#0" expanded="true" />
-                <element signature="e#1673#1674#0" expanded="true" />
-                <element signature="e#1842#1843#0" expanded="true" />
-                <element signature="e#1877#1878#0" expanded="true" />
-                <element signature="e#1932#1933#0" expanded="true" />
-                <element signature="e#1980#1981#0" expanded="true" />
-                <element signature="e#2012#2013#0" expanded="true" />
-                <element signature="e#2040#2041#0" expanded="true" />
-                <element signature="e#2082#2083#0" expanded="true" />
-                <element signature="e#2116#2117#0" expanded="true" />
-                <element signature="e#2159#2160#0" expanded="true" />
-                <element signature="e#2184#2185#0" expanded="true" />
-                <element signature="e#3311#3312#0" expanded="true" />
-                <element signature="e#3343#3344#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaritalStatus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/MaritalStatus.java">
+      <file leaf-file-name="VaadinTrialFourth.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialFourth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="348">
+              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
               <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <file leaf-file-name="AbstractComponent.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/AbstractComponent.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="171">
+              <caret line="494" column="47" selection-start-line="494" selection-start-column="47" selection-end-line="494" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SizeWithUnit.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/server/SizeWithUnit.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+              <folding>
+                <element signature="e#2043#2044#0" expanded="true" />
+                <element signature="e#2096#2097#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sizeable.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/server/Sizeable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/UI.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="648" column="19" selection-start-line="648" selection-start-column="19" selection-end-line="648" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractSingleComponentContainer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/AbstractSingleComponentContainer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegacyWindow.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/LegacyWindow.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -191,8 +157,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/vaadin/second/MaritalStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialFourth.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialSecond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialSecond.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialFourth.java" />
       </list>
     </option>
   </component>
@@ -547,15 +517,15 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35458168" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32934928" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32934928" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.20028612" />
-      <window_info id="Structure" order="1" sideWeight="0.5009901" side_tool="true" visible="true" weight="0.20028612" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49817517" visible="true" weight="0.20028612" />
+      <window_info id="Structure" order="1" sideWeight="0.5018248" side_tool="true" visible="true" weight="0.20028612" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27224436" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27224436" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -810,35 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/server/Sizeable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/AbstractComponent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="471" column="16" selection-start-line="471" selection-start-column="16" selection-end-line="471" selection-end-column="16" />
-          <folding>
-            <element signature="e#13750#13751#0" expanded="true" />
-            <element signature="e#13799#13800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/UI.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="507" column="29" selection-start-line="507" selection-start-column="16" selection-end-line="507" selection-end-column="29" />
-          <folding>
-            <element signature="e#18698#18699#0" expanded="true" />
-            <element signature="e#18736#18737#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/Grid.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -860,20 +801,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialSecond.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialSecond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="305">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="21" selection-end-line="43" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/vaadinTrialThird.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialThird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/AbstractSingleComponentContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/LegacyWindow.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/UI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="648" column="19" selection-start-line="648" selection-start-column="19" selection-end-line="648" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/server/Sizeable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/server/SizeWithUnit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding>
+            <element signature="e#2043#2044#0" expanded="true" />
+            <element signature="e#2096#2097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.0-SNAPSHOT/vaadin-server-8.0-20170714.000132-175.jar!/com/vaadin/ui/AbstractComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="494" column="47" selection-start-line="494" selection-start-column="47" selection-end-line="494" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tatsuaki/study/ui/VaadinTrialFourth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

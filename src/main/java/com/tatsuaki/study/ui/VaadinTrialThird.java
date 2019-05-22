@@ -12,7 +12,7 @@ import com.vaadin.ui.VerticalLayout;
 
 @SpringUI(path = "/vaadin/trial/3")
 @Theme("valo")
-public class vaadinTrialThird extends UI {
+public class VaadinTrialThird extends UI {
     protected void init(VaadinRequest request) {
         final VerticalLayout layout = new VerticalLayout();
         layout.setMargin(true);
